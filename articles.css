@@ -1,0 +1,93 @@
+/***************************
+General Styling
+***************************/
+/***************************
+font-family: 'Spirax', cursive;
+font-family: 'Press Start 2P', cursive;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Macondo', cursive;
+***************************/
+
+body {
+	background-color: cornsilk;
+	margin: 0;
+
+}
+
+
+.head {
+	background-color: cornsilk;
+	margin: 0;
+}
+
+
+header {
+	background-color: lightblue;
+}
+
+
+/***************************
+Article Styling
+***************************/
+
+#BP1 {
+	background-color: #aaa;
+	font-family: 'Spirax', cursive;
+	font-size: 15px;
+	color: #fff;
+	line-height: 1em;
+	padding: 1% 2%;
+	border-radius: 2em;
+	margin: 5% 2% 2.5%;
+}
+
+#BP2 {
+	background-color: #bbb;
+	font-family: 'Press Start 2P', cursive;
+	font-size: 10px;
+	color: #ddd;
+	line-height: 1.5em;
+	padding: 5%;
+	border-radius: 5em 0;
+	margin: 2.5% 2% 2.5%;
+}
+
+#BP3 {
+	background-color: #ccc;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+	color: #eee;
+	line-height: 2em;
+	padding: 2% 5%;
+	border-radius: 2em 5em;
+	margin: 2.5% 2% 2.5%;
+}
+
+#BP4 {
+	background-color: #ddd;
+	font-family: 'Oswald', sans-serif;
+	font-size: 10px;
+	color: #aaa;
+	line-height: 2.5em;
+	padding: 10% 5%;
+	border-radius: 10%/20%;
+	margin: 2.5% 2% 2.5%;
+}
+
+#BP5 {
+	background-color: #eee;
+	font-family: 'Macondo', cursive;
+	font-size: 10px;
+	color: black;
+	line-height: 3em;
+	padding: 15%;
+	border-radius: 2em/5em;
+	margin: 2.5% 2% 2.5%;
+}
+
+
+
+
+
+
